@@ -27,7 +27,7 @@ const Links = () => {
 };
 
 const Nav = () => {
-  const [openNav, setOPenNAv] = useState(true);
+  const [openNav, setOPenNAv] = useState(false);
   return (
     <nav className="w-full h-14 fixed flex items-center justify-center top-3 z-100">
       <div className="relative bg-blue-950 w-[98%] h-full flex justify-between items-center text-orange-200 p-2">
