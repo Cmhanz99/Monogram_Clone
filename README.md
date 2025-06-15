@@ -1,0 +1,1 @@
+This websit is a clone of [mongram](https://monogramcc.com/shop/), It's for practice purposes only!
