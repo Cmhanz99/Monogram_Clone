@@ -2,7 +2,7 @@ import React from "react";
 
 const Logo = () => {
   return (
-    <a title="Monogram" class="text-secondary mr-0 navbar-brand" href="/">
+    <a title="Monogram" className="text-secondary mr-0 navbar-brand" href="/">
       <svg height="38" viewBox="0 0 520 114" fill="currentColor">
         <title>Monogram</title>
         <path d="M150,36V0H0V114H150ZM144,6V36H78V6ZM6,6H72V72H6ZM72,108H6V78H72Zm72,0H78V78h0V42h66Z"></path>

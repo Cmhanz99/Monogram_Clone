@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../../assets/logo";
+import Logo from "../../assets/Logo";
 import Navlinks from "./Navlinks";
 import { AiOutlineShopping } from "react-icons/ai";
 import { IoMdArrowDropdown } from "react-icons/io";
