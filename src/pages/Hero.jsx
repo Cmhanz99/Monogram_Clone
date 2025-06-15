@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="relative z-10 text-white w-full h-full flex items-center justify-center flex-col">
         <h2 className="text-4xl font-bold uppercase text-center
         tracking-[.5rem] text-orange-200">A Console for <br /> Every Workflow</h2>
-        <p className="text-xl mt-5 tracking-wide">Discover the perfect console for yours.</p>
+        <p className="text-xl text-center mt-5 tracking-wide">Discover the perfect console for yours.</p>
 
         <p className="text-4xl absolute bottom-10 animate-bounce">
             <SlArrowDown />

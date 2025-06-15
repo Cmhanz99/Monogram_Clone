@@ -1,3 +1,9 @@
+import mock1 from "/mock1.jfif"
+import mock2 from "/mock2.jfif"
+import mock3 from "/mock3.jfif"
+import mock4 from "/mock4.jfif"
+import mock5 from "/mock5.jfif"
+
 export const products = [
   {
     id: 1,
@@ -5,7 +11,7 @@ export const products = [
     badge: "Pre-Order",
     description: "Ideal for everyday shortcuts. Adaptable to any workflow.",
     status: "Sold Out",
-    img: "/public/mock1.jfif"
+    img: mock1
   },
   {
     id: 2,
@@ -13,7 +19,7 @@ export const products = [
     badge: "Pre-Order",
     description: "Ideal for music & audio. Adaptable to any workflow.",
     status: "Sold Out",
-    img: "/public/mock2.jfif"
+    img: mock2
   },
   {
     id: 3,
@@ -21,7 +27,7 @@ export const products = [
     badge: "Pre-Order",
     description: "Ideal for photo & video. Adaptable to any workflow.",
     status: "Sold Out",
-    img: "/public/mock3.jfif"
+    img: mock3
   },
   {
     id: 4,
@@ -29,7 +35,7 @@ export const products = [
     badge: "Pre-Order",
     description: "Ideal for Video & Film. Adaptable to any workflow.",
     status: "Sold Out",
-    img: "/public/mock4.jfif"
+    img: mock4
   },
   {
     id: 5,
@@ -38,6 +44,6 @@ export const products = [
     description: "Adaptable to any workflow.",
     status: "Sold Out",
     img: "/public/mock5.jfif",
-    col: "md:col-span-2"
+    col: mock5
   },
 ];
